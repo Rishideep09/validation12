@@ -1,0 +1,16 @@
+.main{
+background-image: url("https://img.freepik.com/free-photo/business-network-background-connecting-dots-technology-design_53876-160338.jpg?w=996&t=st=1663002830~exp=1663003430~hmac=2720061ada88d188614483d0b7be1184b4a6ab70e3bb58c5c1a0f424a0de26ab");
+background-size: cover;
+height: 100vh;
+text-align: center;
+}
+.head{
+color: blue;
+font-family:Roboto;
+font-size: 20px;
+}
+.image{
+text-align: center;
+height: 100px;
+width: 140px;
+}
